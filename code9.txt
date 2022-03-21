@@ -1,2 +1,4 @@
 "code.txt" 
 new change done by a user2
+
+change 3 from local repo by user1
